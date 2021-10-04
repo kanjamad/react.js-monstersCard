@@ -1,11 +1,10 @@
-# adding TypeScript
+
 ## Tech Stack
 ---
 - HTML
 - CSS
 - Javascript
 - React.js
-- TypeScript
 - ESlint
 - Prettier
 
